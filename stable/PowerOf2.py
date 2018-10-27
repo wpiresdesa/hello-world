@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # _*_ coding: utf-8 _*_
 
-# Modified by Wanderley Pires de Sá
 
 # Python Program to display the powers of 2 using anonymous function
 
