@@ -2,7 +2,8 @@
 # _*_ coding: utf-8 _*_
 
 # Add this line today - 29/October/2018 11:08Hs
-# Add another line (this one) todat 29/October/2018 11:10Hs
+# Add another line (this one) today 29/October/2018 11:10Hs
+# Add another line (this one) today 29?october/2018 11:18Hs
 
 # Python Program to display the powers of 2 using anonymous function
 
