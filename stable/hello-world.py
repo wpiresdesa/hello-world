@@ -3,6 +3,7 @@
 
 # Main hello-world repository
 # Modification made #01 at /Users/pires/ProgrammingLanguages/LearningGit/hello-world/stable
+# 30/October/2018 - #01
 
 # This program prints Hello, world!
 
